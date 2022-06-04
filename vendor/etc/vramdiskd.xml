@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<records>
+<boot_file>/vendor/lib64/egl/libGLES_mali.so</boot_file>
+</records>

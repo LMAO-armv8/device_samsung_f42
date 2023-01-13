@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=f62
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-E625F
+ro.product.system_ext.name=f62ins
+ro.system_ext.build.date=Sat Nov  5 16:00:42 KST 2022
+ro.system_ext.build.date.utc=1667631642
+ro.system_ext.build.fingerprint=samsung/f62ins/f62:13/TP1A.220624.014/E625FDDU2CVK2:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=E625FDDU2CVK2
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+
